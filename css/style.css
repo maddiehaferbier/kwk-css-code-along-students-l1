@@ -1,1 +1,12 @@
 /* add CSS class and element and selectors here */
+.maddieExampleClass {
+    font-size: 300%;
+     background-color: red;
+     font-family: lobster;
+     border: 1px dotted red;
+     text-transform: uppercase;
+     letter-spacing: 5px;
+     transition: rotate(-30)deg;
+     text-shadow: length
+   }
+}
